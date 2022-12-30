@@ -7,7 +7,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/Th30neAnd0nly/TrackDown)
 
-<p align='center'><img  src="Tutorial.mp4" ></p>
+[![Video Tutorial](https://github.com/AJ-MODZ/TLTB/blob/main/Tutorial.mp4)]
  
 ### How to build
 1. Create a telegram bot through [BotFather](https://t.me/BotFather).
